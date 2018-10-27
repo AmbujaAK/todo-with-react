@@ -1,17 +1,17 @@
 {
-  "name": "todos",
+  "name": "todo-with-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ajv": "^6.5.3",
+    "ajv": "^6.5.4",
     "babel-loader": "^7.1.5",
     "bootstrap": "^3.3.7",
-    "enzyme-adapter-react-15": "^1.0.6",
-    "immutability-helper": "^2.7.1",
-    "keycode-js": "^1.0.0",
-    "react": "^16.4.2",
-    "react-bootstrap": "^0.32.2",
-    "react-dom": "^16.4.2",
+    "enzyme-adapter-react-15": "^1.1.1",
+    "immutability-helper": "^2.8.1",
+    "keycode-js": "^1.0.3",
+    "react": "^16.6.0",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.6.0",
     "react-scripts": "1.1.4"
   },
   "scripts": {
