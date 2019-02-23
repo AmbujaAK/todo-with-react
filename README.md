@@ -19,3 +19,17 @@
     ```
 ## Screenshots
 <img src="images/screenshot.png">
+
+> ## Package installation or updates.
++ upgrades your package.json dependencies to the latest versions
+```
+$ npm install -g npm-check-updates
+```
++ Show any new dependencies for the project in the current directory <br>
+```
+$ nuc
+```
++ Upgrade a project's package file
+```
+ncu -u
+```
