@@ -4,16 +4,20 @@
   "private": true,
   "homepage": "https://AmbujaAK.github.io/todo-with-react",
   "dependencies": {
-    "ajv": "^6.9.2",
+    "ajv": "^6.10.0",
     "babel-loader": "^8.0.5",
     "bootstrap": "^4.3.1",
-    "enzyme-adapter-react-15": "^1.3.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.10.0",
     "immutability-helper": "^3.0.0",
+    "jquery": "^3.3.1",
     "keycode-js": "^1.0.4",
-    "react": "^16.8.3",
+    "npm-check-updates": "^2.15.0",
+    "react": "^16.8.4",
     "react-bootstrap": "^1.0.0-beta.5",
-    "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-dom": "^16.8.4",
+    "react-scripts": "2.1.8",
+    "typescript": "^3.3.3333"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,6 +28,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "flow-bin": "^0.93.0"
+    "flow-bin": "^0.94.0"
   }
 }

@@ -27,7 +27,7 @@ $ npm install -g npm-check-updates
 ```
 + Show any new dependencies for the project in the current directory <br>
 ```
-$ nuc
+$ ncu
 ```
 + Upgrade a project's package file
 ```
