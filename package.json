@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://AmbujaAK.github.io/todo-with-react",
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "babel-loader": "^8.0.5",
     "bootstrap": "^4.3.1",
     "enzyme": "^3.9.0",
